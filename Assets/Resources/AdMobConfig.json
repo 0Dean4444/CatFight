@@ -1,0 +1,12 @@
+{
+    "appName": "CatFight - Đại Chiến Mèo Chuột",
+    "packageName": "com.catfight.defense.vn",
+    "isListedOnGooglePlay": false,
+    "useTestAdsWhileUnpublished": true,
+    "androidAppId": "ca-app-pub-3940256099942544~3347511713",
+    "androidRewardedUnitId": "ca-app-pub-3940256099942544/5224354917",
+    "androidInterstitialUnitId": "ca-app-pub-3940256099942544/1033173712",
+    "androidBannerUnitId": "ca-app-pub-3940256099942544/6300978111",
+    "iosAppId": "ca-app-pub-3940256099942544~1458002511",
+    "iosRewardedUnitId": "ca-app-pub-3940256099942544/1712485313"
+}

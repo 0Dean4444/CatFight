@@ -1,0 +1,30 @@
+# Generated Unity files and machine-local settings
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+/.utmp/
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# Editor and IDE output
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
+
+# Android build artifacts and signing keys
+*.apk
+*.aab
+*.keystore
+*.jks
